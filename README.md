@@ -1,3 +1,12 @@
+This is a fork of Typesafe's Slick 1.0.0 database access framework which was patched to compile under Scala 2.11.1 so it could be used with Play Framework 2.3.4.
+
+Due to the large amount of legacy code we still have running with Slick 1.0.* we were unable to migrate it all to Slick 2.* at this time.
+
+For Portuguese readers, we explain the issues found in the compilation here: http://programacaobr.com/compilando-slick1-scala211/
+
+Disclaimer: This build is offered as-is, with no implied warranty. Please conduct your own testing to assure usability.
+
+
 Slick
 =====
 
